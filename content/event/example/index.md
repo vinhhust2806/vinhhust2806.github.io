@@ -2,7 +2,7 @@
 title: AI in Medical Image Analysis
 
 event: Webinar AI4Youngster
-event_url: https://example.org
+event_url: https://bit.ly/Ai4youngster26
 
 location: FPT Software Quy Nhon
 address:
@@ -22,7 +22,7 @@ date_end: '2024-11-29T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-30T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
