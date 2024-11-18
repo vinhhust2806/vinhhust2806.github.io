@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nguyen Quang Vinh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Quang Vinh 
+last_name: Nguyen
 
 # Status emoji
 status:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nguyen Quang Vinh is an aspiring AI researcher with a robust foundation in computer vision (CV) and natural language processing (NLP). His research interests include medical image analysis, mental health detection and multimodal AI. Driven to advance cutting-edge AI research, he aim to apply interdisciplinary knowledge to solve complex challenges and push the boundaries of innovation in artificial intelligence.
