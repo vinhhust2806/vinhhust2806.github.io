@@ -54,8 +54,8 @@ interests:
 education:
   - area: MSc Artificial Intelligence
     institution: Chonnam National University
-    date_start: 2025-03-01
-    date_end: 2023-03-01
+    date_start: 2023-03-01
+    date_end: 2025-03-01
     summary: |
       GPA: 4.36/4.5
     
@@ -71,8 +71,8 @@ education:
       url: 'https://google.com'
   - area: BSc Control Engineering and Automation
     institution: Hanoi University of Science and Technology
-    date_start: 2022-09-01
-    date_end: 2018-09-01
+    date_start: 2018-09-01
+    date_end: 2022-09-01
     summary: |
       GPA: 3.64/4.0
 
@@ -114,7 +114,7 @@ work:
     summary: |
       Responsibilities include:
       - Reseach AI topics: Medical Image Analysis
-      - Publish paper in AI conferences: NICS, GSTD
+      - Publish paper in AI conferences: NICS, G
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
