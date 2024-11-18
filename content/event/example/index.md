@@ -2,7 +2,7 @@
 title: AI in Medical Image Analysis
 
 event: Webinar AI4Youngster
-event_url: https://bit.ly/Ai4youngster26
+event_url: https://example.org
 
 location: FPT Software Quy Nhon
 address:
