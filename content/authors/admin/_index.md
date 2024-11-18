@@ -20,93 +20,82 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Reseacher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Chonnam National University
+    url: https://international.jnu.ac.kr/IndexMain.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vinhbn28@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/VinhNguyen8220
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/vng0628/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/vinhhust2806?tab=repositories
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/quang-vinh-nguyen-2ab952221/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=O9QYWEsAAAAJ&hl=vi
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0002-3838-4428
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal AI
+  - Medical Image Analysis
+  - Mental Health Detection
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Artificial Intelligence
+    institution: Chonnam National University
+    date_start: 2025-03-01
+    date_end: 2023-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Polyp Detection in Endoscopy Image. Supervised by [Soo Hyung Kim](https://prlabjnu.github.io/members/shkim/). Presented papers at 2 top-tier AI conferences.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://google.com'
+  - area: BSc Control Engineering and Automation
+    institution: Hanoi University of Science and Technology
+    date_start: 2022-09-01
+    date_end: 2018-09-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.64/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Vision
+      - Programming
+      - Algebra, calculus, probability, statistics
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: AI Reseacher
+    company_name: Pattern Recognition Laboratory
+    company_url: https://prlabjnu.github.io/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-01
+    date_end: 2025-03-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Reseach AI topics: Multimodal AI, medical image analysis, mental health detection
+      - Publish paper in top-tier AI conferences: BMVC, ACCV, MICCAI, ...
+      
+  - position: Leader
+    company_name: AI VIET NAM
+    company_url: https://aivietnam.edu.vn/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: 2022-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Assist student in learning AI
+      - Participate in AI Challenge
+        
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
