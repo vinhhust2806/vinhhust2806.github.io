@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Asian Conference on Computer Vision 2024*
-publication_short: In *ACCV*
+publication_short: In *ACCV 2024*
 
 abstract: Automatic polyp segmentation is crucial for effective diagnosis and treatment in colonoscopy images. Traditional methods encounter significant challenges in accurately delineating polyps due to limitations in feature representation and the handling of variability in polyp appear ance. Deep learning techniques, including CNN and Transformer-based methods, have been explored to improve polyp segmentation accuracy. However, existing approaches often neglect additional semantics, restricting their ability to acquire adequate contexts of polyps in colonoscopy images. In this paper, we propose an innovative method named “Auto matic Polyp Segmentation with Self-Enriched Semantic Model” to address these limitations. First, we extract a sequence of features from an input image and decode high-level features to generate an initial segmen tation mask. Using the proposed self-enriched semantic module, we query potential semantics and augment deep features with additional semantics, thereby aiding the model in understanding context more effectively. Extensive experiments show superior segmentation performance of the proposed method against state-of-the-art polyp segmentation baselines across five polyp benchmarks in both superior learning and generalization capabilities.
 

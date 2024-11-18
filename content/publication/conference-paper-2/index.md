@@ -32,7 +32,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Multimedia Evaluation Workshop*
-publication_short: In *MediaEval*
+publication_short: In *MediaEval’23* 
 
 abstract: In this paper, we present our participation in media content retrieval, in which we retrieve and connect the image for a specific article, such as news. We propose a method of using prompt engineering techniques and taking advantage of ChatGPT to generate descriptions of potential images in the article, which are then filtered and passed with the corresponding image into the text-image model. Our experiment demonstrates the efficiency of proposed framework in enhancing media content retrieval through high relevant and quality data, presenting an effective approach to combining the LLM model with media content problems
 
