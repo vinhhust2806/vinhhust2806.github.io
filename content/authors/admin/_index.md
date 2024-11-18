@@ -11,7 +11,7 @@ last_name: Nguyen
 
 # Status emoji
 status:
-  icon: 💊
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -82,8 +82,8 @@ work:
     date_end: 2025-03-01
     summary: |2-
       Responsibilities include:
-      - Reseach AI topics: Multimodal AI, medical image analysis, mental health detection.
-      - Publish paper in top-tier AI conferences: BMVC, ACCV, MICCAI, ...
+      - Reseach AI topics Multimodal AI, medical image analysis, mental health detection
+      - Publish paper in top-tier AI conferences: BMVC, ACCV, MICCAI
       
   - position: Leader
     company_name: AI VIET NAM
