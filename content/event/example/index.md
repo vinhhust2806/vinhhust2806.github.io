@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: AI in Medical Image Analysis
 
-event: Hugo Blox Builder Conference
+event: Webinar AI4Youngster
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: FPT Software Quy Nhon
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: 12 Dai Lo Khoa Hoc
+  city: Quy Nhon
+  region: Binh Dinh
   postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+  country: Viet Nam
+  
+summary: 'AI in Medical Image Analysis: Segmentation, Multimodal Approaches, and Generative Models.'
+abstract: 'The integration of Artificial Intelligence (AI) into medical imaging has revolutionized healthcare, offering innovative solutions to some of the most challenging problems in diagnostics and treatment planning. This talk delves into three transformative aspects of AI in medical image analysis: segmentation, multimodal approaches, and generative models.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
