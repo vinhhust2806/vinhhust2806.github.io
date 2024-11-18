@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Tracked-vehicle Retrieval
+date: 2024-01-18
+external_link: https://github.com/vinhhust2806/Vehicle-Retrival
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This project focuses on retrieving tracked vehicles based on natural language descriptions.
 
 <!--more-->

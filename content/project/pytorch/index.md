@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Depression Detection
+date: 2024-09-16
+external_link: https://github.com/vinhhust2806/LCMR-3S
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+In this project, I developed a deep learning model for detecting depression from multimodal data on social media.
 
 <!--more-->
