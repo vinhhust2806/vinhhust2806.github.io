@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Nguyen Quang Vinh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Quang Vinh
+last_name: Nguyen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💊
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,93 +20,81 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Reseacher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Chonnam National University
+    url: https://international.jnu.ac.kr/IndexMain.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vinhbn28@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/VinhNguyen8220
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/vng0628/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/vinhhust2806?tab=repositories
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/quang-vinh-nguyen-2ab952221/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=O9QYWEsAAAAJ&hl=vi
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0002-3838-4428
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal AI
+  - Medical Image Analysis
+  - Mental Health Detection
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Artificial Intelligence
+    institution: Chonnam National University
+    date_start: 2025-03-01
+    date_end: 2023-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Polyp Detection in Endoscopy Image. Supervised by [Soo Hyung Kim](https://prlabjnu.github.io/members/shkim/). Presented papers at 2 top-tier AI conferences.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://google.com'
+  - area: BSc Control Engineering and Automation
+    institution: Hanoi University of Science and Technology
+    date_start: 2022-09-01
+    date_end: 2018-09-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.64/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Vision
+      - Programming
+      - Algebra, calculus, probability, statistics
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: AI Reseacher
+    company_name: Pattern Recognition Laboratory
+    company_url: https://prlabjnu.github.io/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-01
+    date_end: 2025-03-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Reseach AI topics: Multimodal AI, medical image analysis, mental health detection.
+      - Publish paper in top-tier AI conferences: BMVC, ACCV, MICCAI, ...
+      
+  - position: Leader
+    company_name: AI VIET NAM
+    company_url: https://aivietnam.edu.vn/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: 2022-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Assist student in learning AI
+      - Participate in AI Challenge
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -114,13 +102,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Pytorch
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Academic Research
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,15 +116,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sport
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Beer
         description: ''
         percent: 80
         icon: camera
@@ -144,43 +132,30 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Korean
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Best Paper Award
+    url: https://drive.google.com/file/d/1AIn8bZZhWw2EdFLj35h9WNwUVEzX9Fxn/view?usp=sharing
+    date: '2024-08-24'
+    awarder: The Korea Big Data Service Society
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I achieved best paper award for my publication named "Rethinking top probability from Multi-View for Distracted Driver Behaviour Localization" in BIGDAS 2024 Conference.
+  - title: Rank 6th AI City Challenge 2024
+    url: https://www.aicitychallenge.org/
+    date: '2024-04-2024'
+    awarder: AI City Challenge 2024
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I achieved 6th for AI City Challenge 2024 Track 3 Naturalistic Driving Action Recognition, CVPR Workshop 2024.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nguyen Quang Vinh is an aspiring AI researcher with a robust foundation in computer vision (CV) and natural language processing (NLP). His research interests include medical image analysis, mental health detection and multimodal AI. Driven to advance cutting-edge AI research, he aim to apply interdisciplinary knowledge to solve complex challenges and push the boundaries of innovation in artificial intelligence.
