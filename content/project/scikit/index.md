@@ -1,6 +1,6 @@
 ---
 title: Chatbot
-date: 20234-06-28
+date: 2024-06-28
 external_link: https://github.com/vinhhust2806/Math-Chatbot
 tags:
   - Hugo

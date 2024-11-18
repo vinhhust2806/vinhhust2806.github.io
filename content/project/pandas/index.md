@@ -1,5 +1,5 @@
 ---
-title: Tracked-vehicle Retrieval
+title: Vehicle Retrieval
 date: 2024-01-18
 external_link: https://github.com/vinhhust2806/Vehicle-Retrival
 tags:
