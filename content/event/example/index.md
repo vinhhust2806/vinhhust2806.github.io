@@ -2,7 +2,7 @@
 title: AI in Medical Image Analysis
 
 event: Webinar AI4Youngster
-event_url: https://example.org
+event_url: https://bit.ly/Ai4youngster26
 
 location: FPT Software Quy Nhon
 address:
@@ -17,12 +17,12 @@ abstract: 'The integration of Artificial Intelligence (AI) into medical imaging 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-11-29T13:00:00Z'
+date_end: '2024-11-29T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-11-30T00:00:00Z'
 
 authors:
   - admin
