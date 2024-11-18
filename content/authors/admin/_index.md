@@ -65,7 +65,7 @@ education:
       - AI Project
       - ...
         
-      Thesis on Polyp Detection in Endoscopy Image. Supervised by [Soo Hyung Kim](https://prlabjnu.github.io/members/shkim/). 
+      Thesis on Polyp Detection in Endoscopy Image. Supervised by Professor [Soo Hyung Kim](https://prlabjnu.github.io/members/shkim/). 
     button:
       text: 'Read Thesis'
       url: 'https://google.com'
@@ -104,21 +104,31 @@ work:
       Responsibilities include:
       - Assist student in learning AI
       - Participate in AI Challenge
-        
+  
+  - position: AI Researcher
+    company_name: Image Processing and Signal Analysis Laboratory
+    company_url: https://sites.google.com/view/ipsal/home
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2023-03-01
+    summary: |
+      Responsibilities include:
+      - Reseach AI topics: Medical Image Analysis
+      - Publish paper in AI conferences: NICS, GSTD
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C, C++, Latex
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Pytorch
+      - name: Pytorch, Transformer, Langchain, Hugging Face
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Academic Research
+      - name: Academic Research, Teaching, Training, Consultation
         description: ''
         percent: 40
         icon: circle-stack
