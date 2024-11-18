@@ -114,7 +114,7 @@ work:
     summary: |
       Responsibilities include:
       - Reseach AI topics: Medical Image Analysis
-      - Publish paper in AI conferences: NICS, G
+      - Publish paper in AI conferences: NICS, GTSD
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
