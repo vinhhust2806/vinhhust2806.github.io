@@ -17,8 +17,8 @@ abstract: 'The integration of Artificial Intelligence (AI) into medical imaging 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-29T13:00:00Z'
-date_end: '2024-11-29T15:00:00Z'
+date: '2024-11-29T20:00:00Z'
+date_end: '2024-11-29T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
