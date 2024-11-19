@@ -15,20 +15,20 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-10-13T00:00:00Z'
+date: '2024-09-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-13T00:00:00Z'
+publishDate: '2024-09-09T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Annual Conference of KIPS 2024*
-publication_short: In *ACK 2024* 
+publication: In *Axirv*
+publication_short: In *Axirv* 
 
 abstract: Audio-driven talking face generation is a widely researched topic due to its high applicability. Reconstructing a talking face using audio significantly contributes to fields such as education, healthcare, online conversations, virtual assistants, and virtual reality. Early studies often focused solely on changing the mouth movements, which resulted in outcomes with limited practical applications. Recently, researchers have proposed a new approach of constructing the entire face, including face pose, neck, and shoulders. To achieve this, they need to generate through landmarks. However, creating stable landmarks that align well with the audio is a challenge. In this paper, we propose the KFusion of Dual-Domain model, a robust model that generates landmarks from audio. We separate the audio into two distinct domains to learn emotional information and facial context, then use a fusion mechanism based on the KAN model. Our model demonstrates high efficiency compared to recent models. This will lay the groundwork for the development of the audio-driven talking face generation problem in the future.
 
