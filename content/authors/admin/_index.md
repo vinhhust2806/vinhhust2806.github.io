@@ -178,4 +178,4 @@ awards:
 
 ## About Me
 
-Nguyen Quang Vinh is an aspiring AI researcher with a robust foundation in computer vision (CV) and natural language processing (NLP). His research interests include medical image analysis, mental health detection and multimodal AI. Driven to advance cutting-edge AI research, he aims to apply interdisciplinary knowledge to solve complex challenges and push the boundaries of innovation in artificial intelligence.
+Nguyen Quang Vinh is an aspiring AI researcher with a robust foundation in computer vision (CV) and natural language processing (NLP). His research interests include multimodal AI, medical image analysis, and mental health detection. Driven to advance cutting-edge AI research, he aims to apply interdisciplinary knowledge to solve complex challenges and push the boundaries of innovation in artificial intelligence.
