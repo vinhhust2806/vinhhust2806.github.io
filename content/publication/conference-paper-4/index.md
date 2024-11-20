@@ -53,13 +53,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://bigdas.or.kr/2024/assets/docs/[BIGDAS2024]%20Proceedings.pdf'
+url_pdf: 'https://arxiv.org/pdf/2411.12525'
 url_code: 'https://github.com/vinhhust2806/Action-Recognition'
 url_dataset: 'https://www.aicitychallenge.org/'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'http://bigdas.or.kr/2024/assets/docs/[BIGDAS2024]%20Proceedings.pdf'
+url_source: 'https://arxiv.org/pdf/2411.12525'
 url_video: ''
 
 # Featured image
