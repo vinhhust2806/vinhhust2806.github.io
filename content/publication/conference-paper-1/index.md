@@ -48,13 +48,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2410.01210'
+url_pdf: 'https://openaccess.thecvf.com/content/ACCV2024/papers/Nguyen_Polyp-SES_Automatic_Polyp_Segmentation_with_Self-Enriched_Semantic_Model_ACCV_2024_paper.pdf'
 url_code: 'https://github.com/vinhhust2806/Polyp-SES'
 url_dataset: 'https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/pdf/2410.01210'
+url_source: 'https://openaccess.thecvf.com/content/ACCV2024/papers/Nguyen_Polyp-SES_Automatic_Polyp_Segmentation_with_Self-Enriched_Semantic_Model_ACCV_2024_paper.pdf'
 url_video: ''
 
 # Featured image
